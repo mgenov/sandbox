@@ -7,12 +7,12 @@ import org.junit.Rule;
 import org.junit.Test;
 
 /**
- * PlayGameTest is a test which verifies that Player is able to play with Ball.
+ * PlayGameTest is a test which verifies that Player is able to play with the Ball.
  * <p/>
- * This test defines a contract between Player and Ball.
+ * This test defines a contract between Player and the Ball.
  * <p/>
  * The ball behaviour is specified in the contract test named {@link TakeAndReleaseBallTest}
- * and it verifies that Player is able to play with any ball.
+ * and it verifies that Player is able to play with any ball that has this behaviour.
  * <p/>
  *
  * @author Miroslav Genov (miroslav.genov@clouway.com)
